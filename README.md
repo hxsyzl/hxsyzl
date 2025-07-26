@@ -18,10 +18,10 @@
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xiaomi.svg" alt="Redmi" width="30" height="30" />
-    **Redmi** K20 Pro
+    Redmi K20 Pro
     <br>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/lg.svg" alt="LG" width="30" height="30" />
-    **LG** G8 ThinQ
+    LG G8 ThinQ
 </p>
 
 ---
