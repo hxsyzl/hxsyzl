@@ -28,7 +28,7 @@
 
 ### 📈 GitHub 统计数据
 
-![我的GitHub统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![我的GitHub统计](https://github-readme-stats.vercel.app/api?username=hxsyzl&show_icons=true&theme=radical)
 
 ---
 
